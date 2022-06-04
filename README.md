@@ -12,7 +12,11 @@ homework2_20184420
   >**사용예시**
   >
   >'top'
+  
   ps
-  jovs
+  
+  jobs
+  
   kill
+  
 + vim 에디터에서 매크로 사용방법
